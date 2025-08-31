@@ -31,7 +31,7 @@ project_structure:
       description: "Log files are stored here"
       files:
         - OPC_Log_2025-08-31_07.csv
-        - OPC_Log_2025-08-31_08.csv
+        - OPC_Log_2025-08-31_08.csv ```
 
 ---
 
