@@ -1,0 +1,15 @@
+{
+  "server_url": "opc.tcp://Pavithra:53530/OPCUA/SimulationServer",
+  "tags": [
+    "ns=3;i=1001",
+    "ns=3;i=1002",
+    "ns=3;i=1003",
+    "ns=3;i=1004",
+    "ns=3;i=1005",
+    "ns=3;i=1006",
+    "ns=3;i=1007",
+    "ns=3;i=1001",
+    "ns=3;i=1002",
+    "ns=3;i=1003"
+  ]
+}
