@@ -53,7 +53,7 @@ project_structure:
       ```
 
   - step: "Install OPC UA Simulator"
-    details: |
+    <br> details: |
       Download and install **Prosys OPC UA Simulation Server** (free version).
       Run it → the default endpoint is usually:
       ```
