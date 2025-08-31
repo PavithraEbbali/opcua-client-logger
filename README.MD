@@ -77,9 +77,9 @@ project_structure:
       Data will be logged into `/logs/OPC_Log_YYYY-MM-DD_HH.csv`.
       A new file is created automatically at every hour.
 
-sample_output:
-  <br> description: "Example row in the generated CSV file"
-  <br> csv_row: |
-    Timestamp,Epoch,Tag1,Tag2,Tag3,Tag4,Tag5,Tag6,Tag7,Tag8,Tag9,Tag10
-    07:28:12,1756605492,9,1.261108,0.8,1.175571,2.0,0.8000001,1.0,9,1.261108,0.8
-    07:29:12,1756605552,7,-1.765223,0.8,1.175571,-2.0,0.8000001,1.0,7,-1.765223,0.8
+  -  sample_output:
+      <br> description: "Example row in the generated CSV file"
+      <br> csv_row: 
+        <br> Timestamp,Epoch,Tag1,Tag2,Tag3,Tag4,Tag5,Tag6,Tag7,Tag8,Tag9,Tag10
+            07:28:12,1756605492,9,1.261108,0.8,1.175571,2.0,0.8000001,1.0,9,1.261108,0.8
+            07:29:12,1756605552,7,-1.765223,0.8,1.175571,-2.0,0.8000001,1.0,7,-1.765223,0.8
