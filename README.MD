@@ -19,7 +19,9 @@ This project implements an **OPC UA Client** that connects to a simulated OPC UA
 
 ## 📂 Project Structure
 
-root: opcua-client-logger/
+```yaml
+project_structure:
+  root: opcua-client-logger/
   files:
     - app.py: "Main OPC UA client script"
     - requirements.txt: "Python dependencies"
