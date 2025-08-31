@@ -20,12 +20,12 @@ This project implements an **OPC UA Client** that connects to a simulated OPC UA
 ## 📂 Project Structure
 
 opcua-client-logger/
-│── app.py # Main OPC UA client script
-│── requirements.txt # Python dependencies
-│── README.md # Instructions file
-│── logs/ # Log files are stored here
-│ ├── OPC_Log_2025-08-31_07.csv
-│ ├── OPC_Log_2025-08-31_08.csv
+├── app.py # Main OPC UA client script
+├── requirements.txt # Python dependencies
+├── README.md # Instructions file
+└── logs/ # Log files are stored here
+├── OPC_Log_2025-08-31_07.csv
+└── OPC_Log_2025-08-31_08.csv
 
 ---
 
