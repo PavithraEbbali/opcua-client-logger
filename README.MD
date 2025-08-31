@@ -39,14 +39,14 @@ project_structure:
 
 ## setup_instructions:
   - step: "Install Python"
-    details: |
+    <br> details: |
       Make sure Python 3.8+ is installed:
       ```bash
       python --version
       ```
 
   - step: "Install Dependencies"
-    details: |
+    <br> details: |
       Inside the project folder, run:
       ```bash
       pip install -r requirements.txt
@@ -70,7 +70,7 @@ project_structure:
         - Constant (`ns=3;i=1007`)
 
   - step: "Run the Client"
-    details: |
+    <br> details: |
       ```bash
       python app.py
       ```
@@ -81,7 +81,7 @@ project_structure:
 
 sample_output:
   description: "Example row in the generated CSV file"
-  csv_row: |
+  <br> csv_row: |
     Timestamp,Epoch,Tag1,Tag2,Tag3,Tag4,Tag5,Tag6,Tag7,Tag8,Tag9,Tag10
     07:28:12,1756605492,9,1.261108,0.8,1.175571,2.0,0.8000001,1.0,9,1.261108,0.8
     07:29:12,1756605552,7,-1.765223,0.8,1.175571,-2.0,0.8000001,1.0,7,-1.765223,0.8
